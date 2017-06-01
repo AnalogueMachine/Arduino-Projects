@@ -1,6 +1,6 @@
 # Binary Clock
 
-I created a simple binary clock with an Arduino Uno, 16 LEDs and three shift registers. The frame was made with some wood and a piece of laser cut acrylic. This is what it looks like https://imgur.com/a/xZAHo.
+I created a simple binary clock with an Arduino Uno, 16 LEDs (with resistors) and three 74HC595 shift registers. The frame was made with some wood and a piece of laser cut acrylic. This is what it looks like https://imgur.com/a/xZAHo.
 
 Buttons were added to allow changing the hours and minutes (require debouncing) as seen here https://www.youtube.com/watch?v=Cr-ggCXAyt0
 
