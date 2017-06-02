@@ -12,4 +12,6 @@ The wooden frame was made by cutting a channel in a long plank with a router and
 
 For more information on the build please go here: http://arduino-adventures.blogspot.co.uk
 
-I can post the code for the miniaturised version if required.
+# Binary Watch
+
+I also created a binary watch with an Adafruit Gemma and a NeoPixel 16 LED ring. The code is in the repo and you can see the watch in action here - https://www.youtube.com/watch?v=V3B_BZb7VGI&spfreload=10
