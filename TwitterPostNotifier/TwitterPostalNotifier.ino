@@ -7,8 +7,8 @@
 char ssid[] = "O2wireless857895"; //Wifi SSID and password
 char pass[] = "**********";
 
-Twitter twitter("900669205-rnRU5Fn2RsPpfHynad7h2OATjARAc3GdGrgrorEo"); //Twitter token
-char msg[] = "@bunglenutter @GrumbleSG9 You have post!"; //Message to tweet
+Twitter twitter("*************************"); //Insert your OAuth Twitter token here
+char msg[] = "@bunglenutter You have post!"; //Message to tweet
 
 int wifiStatus = WL_IDLE_STATUS; //
 
