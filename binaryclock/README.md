@@ -10,4 +10,5 @@ The wooden frame was made by cutting a channel in a long plank with a router and
 
 I also made a watch-sized version, please see other folder in the arduino-projects repo.
 
-For more information on the build please go here: http://arduino-adventures.blogspot.co.uk
+### Update
+Now includes WiFi version of the sketch, which uses an NTP server to get accurate time.
